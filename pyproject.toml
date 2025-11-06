@@ -1,0 +1,12 @@
+[project]
+name = "news-analyzer-agent"
+version = "0.1.0"
+description = "agent that analyzes news relevance for ideas in real-time"
+authors = [
+  { name = "nathan delcid" }
+]
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "fast-agent-mcp>=0.2.58",
+]

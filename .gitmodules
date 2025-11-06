@@ -1,0 +1,3 @@
+[submodule "submodules/fast-agent"]
+	path = submodules/fast-agent
+	url = https://github.com/evalstate/fast-agent.git

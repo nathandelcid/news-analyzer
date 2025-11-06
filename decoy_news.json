@@ -1,0 +1,26 @@
+[
+    {
+        "id": 129487378,
+        "headline": "ACME Corp announces unexpected CFO resignation",
+        "body": "ACME Corp said its CFO will step down effective immediately due to personal reasons. No change to Q4 guidance mentioned.",
+        "ticker": "ACME",
+        "time": "2025-11-06T14:10:00Z",
+        "source": "PRWIRE"
+    },
+    {
+        "id": 2,
+        "headline": "RivalTech wins $200m government contract",
+        "body": "RivalTech secured a 5-year contract with DoD, boosting its backlog. Management expects margin expansion.",
+        "ticker": "RVTK",
+        "time": "2025-11-06T14:05:00Z",
+        "source": "GovTenders"
+    },
+    {
+        "id": 3,
+        "headline": "ACME faces preliminary antitrust inquiry in EU",
+        "body": "EU Commission opened an initial look into ACME's pricing in consumer devices. No formal charges yet.",
+        "ticker": "ACME",
+        "time": "2025-11-06T13:30:00Z",
+        "source": "RegWatch"
+    }
+]
