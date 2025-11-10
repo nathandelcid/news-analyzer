@@ -8,5 +8,6 @@ authors = [
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
+    "crawl4ai>=0.7.6",
     "fast-agent-mcp>=0.2.58",
 ]
