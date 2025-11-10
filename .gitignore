@@ -29,3 +29,10 @@ fastagent.jsonl
 *.egg-info/
 dist/
 build/
+
+# misc
+.misc/
+
+# Data
+data/
+data1/
